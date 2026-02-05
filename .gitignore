@@ -1,0 +1,31 @@
+# Virtual environments
+env/
+venv/
+env32/
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# VS Code
+.vscode/
+
+
+# OS files
+.DS_Store
+
+
+# ML models
+*.h5
+*.keras
+
+
+
+
+# Uploaded images
+static/uploads/
+
+
+
